@@ -1,0 +1,6 @@
+{
+  "name": "Fakrooz AI Assistant",
+  "description": "المساعد الذكي فكروز - رفيقك الذكي للأسئلة والكتابة والبرمجة والترجمة والشرح",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
